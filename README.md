@@ -1,1 +1,1 @@
-# Movie-Rating
+I analyzed movie ratings and budgets from 2007 to 2011 for a movie reviews company. I created visualizations for budget trends, rating comparisons, and genre-based insights. I also developed an interactive dashboard for better analysis.
